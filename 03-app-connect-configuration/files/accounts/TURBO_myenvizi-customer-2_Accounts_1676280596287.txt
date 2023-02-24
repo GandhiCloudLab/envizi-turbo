@@ -1,0 +1,10 @@
+CUSTOMER,LOCATION,LOCATIONID,METERNAME,QUANTITY,MEASUREUNITID,READINGDATE,RECORDSTARTDATE,RECORDENDDATE,ACCOUNT,DATATYPE
+myenvizi-customer-2,Dallas10,74852598260513,Energy Consumption,8.5409,kWh,2023-02-01T00:00:00.000Z,,,Dallas10_Energy Consumption,Energy Consumption
+myenvizi-customer-2,Dallas10,74852598260513,Energy Consumption,8.5409,kWh,2023-02-02T00:00:00.000Z,,,Dallas10_Energy Consumption,Energy Consumption
+myenvizi-customer-2,Dallas10,74852598260513,Energy Consumption,8.5409,kWh,2023-02-03T00:00:00.000Z,,,Dallas10_Energy Consumption,Energy Consumption
+myenvizi-customer-2,Dallas10,74852598260513,Energy Consumption,8.5409,kWh,2023-02-04T00:00:00.000Z,,,Dallas10_Energy Consumption,Energy Consumption
+myenvizi-customer-2,Dallas10,74852598260513,Energy Consumption,8.5409,kWh,2023-02-05T00:00:00.000Z,,,Dallas10_Energy Consumption,Energy Consumption
+myenvizi-customer-2,Dallas10,74852598260513,Energy Consumption,8.5409,kWh,2023-02-06T00:00:00.000Z,,,Dallas10_Energy Consumption,Energy Consumption
+myenvizi-customer-2,Dallas10,74852598260513,Energy Consumption,8.5409,kWh,2023-02-07T00:00:00.000Z,,,Dallas10_Energy Consumption,Energy Consumption
+myenvizi-customer-2,Dallas10,74852598260513,Energy Consumption,8.5409,kWh,2023-02-08T00:00:00.000Z,,,Dallas10_Energy Consumption,Energy Consumption
+myenvizi-customer-2,Dallas10,74852598260513,Energy Consumption,2.8467,kWh,2023-02-13T00:00:00.000Z,,,Dallas10_Energy Consumption,Energy Consumption
