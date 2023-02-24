@@ -1,4 +1,4 @@
-# Turbonomic and Envzi Integration using App Connect 
+# Turbonomic and Envizi Integration using App Connect 
 
 This document is part of the Turbonomic and Envzi integration, especially it describes about how to pull data from Turbonomic using App Connect and push it to S3 for further integration with Envizi.
 
