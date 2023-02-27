@@ -16,7 +16,7 @@ This document describes how to configure targets for the IBM Turbonomic installe
 
 [02-turbo-targets](./02-turbo-targets/)
 
-#### 3. Turbonomic and Evnvi Integration using App Connect 
+#### 3. Turbonomic and Envizi Integration using App Connect 
 
 This document describes about how to pull data from Turbonomic using App Connect and pushing it to S3 for further integration with Envizi.
 
@@ -27,7 +27,6 @@ This document describes about how to pull data from Turbonomic using App Connect
 This document describes the Turbonomic Performance Dashboard available in Envizi.
 
 [04-turbo-performance-dashboard](./04-turbo-performance-dashboard/)
-
 
 
 ## Reference 
