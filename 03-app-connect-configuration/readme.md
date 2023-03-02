@@ -11,7 +11,7 @@ Need to create Amazon S3 connector and 2 HTTP connectors.
 Need to create `Amazon S3` connector. 
 
 1. Click on `Catalog > Amazon S3 > Add a New Account` 
-<img src="images/01-connector-1.png">
+<img src="images/01connector1.png">
 
 2. Fill in the S3 details as below. (Credentials should have been given by Envizi)
 
